@@ -1,9 +1,9 @@
 # **基于vue的多层级布局组件**
-##安装
+安装
 ```
 npm install gc-layout
 ```
-##使用
+使用
 ```
 import gcLayout from 'gc-layout'·
 ```
