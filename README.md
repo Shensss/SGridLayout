@@ -59,6 +59,7 @@ layout=[
     }
 ]
 ```
+![Image text](./dist/grid.png)
 layout 内容区域设置
  + name用于 标识内容与data-to关联
  + row数组用于 控制内容占用从网格第几个横线到第几个横线的区域
