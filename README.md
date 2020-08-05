@@ -36,8 +36,6 @@ base={
 }
 ```
 col 和 row 的数组长度会把layout分成网格，如上则为3X3的网格
------
-
 + base的基础用法，可接受具体的px，百分比，rem，em等css单位也可以设置为auto 自动扩展
 + gap 设置网格间距，第一个参数为行间距，第二个参数为列间距，layout中会覆盖全局的gap
 ```
@@ -59,7 +57,7 @@ layout=[
     }
 ]
 ```
-![Image text](./dist/grid.png)
+![Image text](./src/grid.png)
 layout 内容区域设置
  + name用于 标识内容与data-to关联
  + row数组用于 控制内容占用从网格第几个横线到第几个横线的区域
